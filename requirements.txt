@@ -1,8 +1,9 @@
 langchain 
 wikipedia 
 langchain-community 
-langchain-openai
-langchain-anthropic
+langchain-huggingface
 python-dotenv
 pydantic
 duckduckgo-search
+transformers
+torch
